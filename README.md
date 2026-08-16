@@ -2,90 +2,43 @@
 
 ## Java Developer | DevOps Enthusiast | Data Analytics Learner
 
-Passionate undergraduate student focused on building scalable applications, automation workflows, and data-driven solutions. Interested in Java development, DevOps practices, cloud technologies, and system optimization.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **Java Development, DevOps, and Cloud Technologies**
-* 💻 Interested in **Backend Development, Automation, CI/CD, and Data Analytics**
-* 🔧 Exploring tools like **Docker, Git, GitHub, Linux, Jenkins, and SQL**
-* 📊 Skilled in **Python, Java, Excel, Data Handling, and Problem Solving**
-* 🎯 Goal: To become a skilled **Java + DevOps Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-* Java
-* Python
-* SQL
-* C
-
-### DevOps & Tools
-
-* Git
-* GitHub
-* Docker
-* Jenkins
-* Linux
-* CI/CD Basics
-
-### Data & Analytics
-
-* Excel
-* Power BI
-* Tableau
-* Data Visualization
-
-### Web & Database
-
-* HTML
-* CSS
-* MySQL
+This repository contains small projects and experiments that demonstrate my learning journey in backend development, DevOps practices, and data analytics. Below are the main projects and what they do.
 
 ---
 
 ## 📂 Featured Projects
 
-### 📘 Study Flow Smart System
+### Study Flow Smart System
+A task and study management system that helps organize study workflows, schedule sessions, and track progress.
 
-A task and study management system designed to organize workflows and track progress efficiently.
+### Student Management System
+A basic system for managing student records, attendance, and performance data.
 
-### 🎓 Student Management System
-
-A system for managing student records, attendance, and performance data using structured data handling.
-
-### 📊 Data Analytics Dashboard
-
-Created dashboards and reports for analyzing datasets and visualizing business insights.
+### Data Analytics Dashboard
+Dashboards and reports built to explore and visualize datasets.
 
 ---
 
-## 📈 GitHub Stats
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
-
-Replace `YOUR_USERNAME` with your GitHub username.
+## 🛠️ Tech stack
+- Java & Python for development
+- Docker, Git, Jenkins for tooling and CI/CD
+- MySQL or SQLite for simple data storage (project-specific)
 
 ---
 
-## 📫 Connect With Me
-
-* 📧 Email: [Arunoday080@gmail.com](mailto:Arunoday080@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn profile link here
-* 🌐 Portfolio: Add your portfolio link here
+## Usage
+Each folder contains a README or a brief note about how to run the project. Common steps:
+1. Clone the repo
+2. Create a virtual environment or set up Java environment
+3. Install dependencies (if any)
+4. Follow the README in each project folder for run instructions
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact
+- Email: Arunoday080@gmail.com
+- GitHub: https://github.com/arunodaysingh22
 
-"Code, automate, optimize, repeat."
+---
 
+If you'd like, I can split this into per-project READMEs and add demo screenshots or sample data.
